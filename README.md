@@ -1,7 +1,7 @@
 ## Bem-vindo ao meu github 😁
 Oiii! Eu sou a Millena, estudante do Instituto Federal de São Paulo. Eu curso Informática integrada ao Ensino Médio e estou no terceiro ano. Em resumo, meus repositórios representam projetos escolares e pessoais. 
 
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/millena-cupolillo)   [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/millena-cupolillo)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/millena-cupolillo)   [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: millenacupolillo@gmail.com)
   
 ## Habilidades
 <div style="display: inline_block">
