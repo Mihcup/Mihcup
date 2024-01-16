@@ -6,7 +6,7 @@ Oiii! Eu sou a Millena, estudante do Instituto Federal de São Paulo. Eu curso I
 - ✏️ Estudando html e css
 - 📘 Apaixonada por leitura
   
-##
+## Contatos:
 
 <div> 
   <a href = "mailto:millenacupolillo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
