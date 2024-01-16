@@ -6,5 +6,4 @@ Oiii! Eu sou a Millena, estudante do Instituto Federal de São Paulo. Eu curso I
 - ✏️ Estudando html e css
 - 📘 Apaixonada por leitura
 
-
-                  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/millena-cupolillo)]
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/millena-cupolillo)
