@@ -1,5 +1,5 @@
 ## Bem-vindo ao meu github 😁
-Oiii! Eu sou a Millena, estudante do Instituto Federal de São Paulo. Eu curso Informática integrada ao Ensino Médio e estou no terceiro ano. Em resumo, meus repositórios representam projetos escolares e pessoais. 
+Oiii! Eu sou a Millena, estudante do Instituto Federal de São Paulo. Eu curso Informática integrada ao Ensino Médio e estou no terceiro ano. Meus repositórios representam projetos escolares e pessoais 🫶🏻
 
 ## Sobre mim: 
 - 📖 Aprendendo sobre orientação a objetos
