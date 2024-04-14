@@ -29,4 +29,8 @@ Oiii! Eu sou a Millena, estudante do Instituto Federal de São Paulo. Eu curso I
        <img align="center" alt="css" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 
+## 
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihcup&show_icons=true&theme=bear&count_private=true"/>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
