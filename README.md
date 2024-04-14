@@ -30,7 +30,10 @@ Oiii! Eu sou a Millena, estudante do Instituto Federal de São Paulo. Eu curso I
     <img align="center" alt="css" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 
 ## 
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihcup&show_icons=true&theme=bear&count_private=true"/>
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Mihcup&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Mihcup&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
